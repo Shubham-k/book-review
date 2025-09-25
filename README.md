@@ -77,8 +77,8 @@ DB_HOST=your-mysql-host
 DB_USER=your-mysql-username
 DB_PASSWORD=your-mysql-password
 DB_NAME=your-database-name
-DB_PORT=your-mysql-port
-JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+DB_PORT=3306
+JWT_SECRET=your-super-secret-jwt-key
 ```
 
 ### 4. Database Setup
