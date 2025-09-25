@@ -94,12 +94,6 @@ npm run migrate
 ```bash
 # Development mode (with auto-restart)
 npm run dev
-
-# Production mode
-npm start
-
-# Debug mode
-npm run debug
 ```
 
 The server will start on `http://localhost:3000`
